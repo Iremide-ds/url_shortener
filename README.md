@@ -1,6 +1,6 @@
-# URL Shortener API using Node.js
+# URL Shortener API using Nest.js
 
-Welcome to the documentation for the URL Shortener API built with Node.js! This API allows you to easily shorten long URLs into more manageable and shareable links. It's a simple and efficient way to make your links concise.
+Welcome to the documentation for the URL Shortener API built with Nest.js! This API allows you to easily shorten long URLs into more manageable and shareable links. It's a simple and efficient way to make your links concise.
 
 ## Getting Started
 
@@ -8,14 +8,15 @@ Follow these instructions to set up the URL Shortener API on your local machine 
 
 ### Prerequisites
 
-- Node.js (version X.X.X)
-- npm (version X.X.X)
-- MongoDB (version X.X.X)
+- Node.js
+- npm
+- Nest.js
+- MySQL or Sqlite
 
 ### Installation
 
 1. Clone the repository: `git clone https://github.com/your-username/url-shortener-api.git`
-2. Navigate to the project directory: `cd url-shortener-api`
+2. Navigate to the project directory: `cd url_shortener`
 3. Install dependencies: `npm install`
 4. Generate `.env` and update the following configuration values:
 
