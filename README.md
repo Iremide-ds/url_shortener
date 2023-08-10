@@ -15,7 +15,7 @@ Follow these instructions to set up the URL Shortener API on your local machine 
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/url-shortener-api.git`
+1. Clone the repository: `git clone https://github.com/Iremide-ds/url_shortener.git`
 2. Navigate to the project directory: `cd url_shortener`
 3. Install dependencies: `npm install`
 4. Generate `.env` and update the following configuration values:
