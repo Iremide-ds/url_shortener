@@ -41,7 +41,8 @@ The API should now be running on `http://localhost:3000`.
 ```json
 {
   "url": "https://www.example.com/this-is-a-long-url-to-be-shortened"
-}```
+}
+```
 
 **Response:**
 ```json
